@@ -1,0 +1,8 @@
+SMTP_USER=
+SMTP_PASSCODE=
+SMTP_HOST=
+SMTP_PORT=
+NOTIFICATION_EMAIL= # Email where you want to get the notifications
+DOMAIN= # Domain where the command '$ dig NS' will be executed
+ORIGINAL_DNS_VALUES= # Comma separated values of original DNS values. E.g. dns-1.customhost.com,dns-2.customhost.com
+NEW_DNS_VALUES= # CSV of original DNS values. See example above.
